@@ -24,9 +24,8 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  min-width: 100px;
-
-  padding: 2px 32px;
+  min-width: 120px;
+  max-height: 30px;
 
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
   border-radius: 4px;
@@ -34,9 +33,9 @@
   cursor: pointer;
   font-weight: bold;
 
-  font-size: 16px;
+  font-size: 14px;
   line-height: 1.88;
   letter-spacing: 0.06em;
   color: #ffffff;
-  background-color: #166a1e;
+  background-color: #a51d1d;
 }
